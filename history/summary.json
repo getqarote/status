@@ -76,17 +76,19 @@
     "url": "https://demo.qarote.io",
     "icon": "https://icons.duckduckgo.com/ip3/demo.qarote.io.ico",
     "slug": "demo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 464,
-    "timeWeek": 432,
-    "timeMonth": 424,
-    "timeYear": 424,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "82.77%",
+    "uptimeWeek": "97.54%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.49%",
+    "time": 425,
+    "timeDay": 471,
+    "timeWeek": 438,
+    "timeMonth": 426,
+    "timeYear": 425,
+    "dailyMinutesDown": {
+      "2026-05-27": 248
+    }
   }
 ]
